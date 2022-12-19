@@ -1,0 +1,11 @@
+.time-card {
+    margin-top: 8px;
+    border: 2px sold grey;
+    padding: 16px;
+    border-radius: 10px;
+    border: 2px solid grey;
+}
+
+.time-text {
+    text-align: center ;
+}
